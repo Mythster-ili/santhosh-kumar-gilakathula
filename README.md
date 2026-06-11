@@ -28,17 +28,7 @@ AI/ML fresher passionate about building intelligent systems with LLMs, RAG pipel
 
 ---
 
-## 📊 GitHub stats
 
-<p align="center">
-![Gilakathula Santhosh Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-kumar-gilakathula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-</p>
-
-<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=santhosh-kumar-gilakathula&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-</p>
-
----
 
 ## 🏆 Certifications
 
