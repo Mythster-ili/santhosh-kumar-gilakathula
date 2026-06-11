@@ -1,16 +1,5 @@
 
 <h1 align="center">Hi, I'm Gilakathula Santhosh Kumar 👋</h1>
-
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&width=500&lines=AI%2FML%20Engineer%20%C2%B7%20Gen%20AI%20%C2%B7%20RAG%20%C2%B7%20LangChain)](https://git.io/typing-svg)
-</p>
-
-<p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhoshkumargilakathula) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-kumar-gilakathula)
-</p>
-
----
-
 ## 🧠 About me
 
 AI/ML fresher passionate about building intelligent systems with LLMs, RAG pipelines, and agentic AI. I turn complex documents into smart, conversational interfaces.
