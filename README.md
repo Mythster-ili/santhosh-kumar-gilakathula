@@ -1,4 +1,4 @@
-# santhosh-kumar-gilakathula
+
 <h1 align="center">Hi, I'm Gilakathula Santhosh Kumar 👋</h1>
 
 <p align="center">
