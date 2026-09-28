@@ -1,8 +1,18 @@
 
 <h1 align="center">Hi, I'm Gilakathula Santhosh Kumar 👋</h1>
+
+
+## 🌐 Portfolio
+
+**[Open my interactive AI/ML portfolio](https://santhosh-ml-portfolio.higgsfield.app)**
+
+AI/ML Engineer with 2+ years of experience at Softalk Technologies Limited (June 2024 – July 2026), building RAG, agentic automation, and enterprise knowledge-assistant systems. See the portfolio for project walkthroughs, validation flows, and my resume.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/santhosh-kumar-gilakathula-607640217)
+
 ## 🧠 About me
 
-AI/ML fresher passionate about building intelligent systems with LLMs, RAG pipelines, and agentic AI. I turn complex documents into smart, conversational interfaces.
+AI/ML Engineer with 2+ years of experience building intelligent systems with LLMs, RAG pipelines, and agentic AI. I turn complex documents into smart, conversational interfaces.
 
 - 📍 Based in **Hyderabad, India**
 - 📫 Reach me at **santhoshkumargilakathula@outlook.com**
